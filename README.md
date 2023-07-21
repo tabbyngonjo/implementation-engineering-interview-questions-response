@@ -112,6 +112,10 @@ This defines a new user model that inherits from Django's built-in AbstractUser 
 Step 3: Creating the Log In and Success Pages
 Once we have our models set up, we can create the log in and success pages. We will use Django's built-in authentication views and templates for this:
 
+![Screenshot 2023-07-21 143157   17](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/9a324c44-7b75-481e-99f5-18dd678b3452)
+
+This sets up the URLs for the log in, log out, and success pages.
+
 
 
 
