@@ -27,9 +27,18 @@ To manage the load on the application, we can use load balancers and horizontal 
 Example Technologies:
 •	Nginx Load Balancer: It provides high performance, reliability, and flexibility for distributing traffic to backend servers.
 •	Amazon Elastic Compute Cloud (EC2): It is a popular cloud platform that provides scalable computing capacity in the cloud.
+
 Example Configuration:
+
 To configure Nginx as a load balancer for multiple backend servers, follow these steps:
 1.	Install Nginx on a separate server that will act as a load balancer.
 
+![Screenshot 2023-07-21 135506    3](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/f1b99617-7a86-4706-8538-c24eb2536ab7)
+
+2.	Edit the Nginx configuration file to specify the backend servers.
+
+
+
+3.	3.	Add the following configuration block to specify the backend servers.
 
 
