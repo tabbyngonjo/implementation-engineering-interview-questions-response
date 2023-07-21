@@ -82,5 +82,12 @@ Two-Way Encryption Methods:
 AES (Advanced Encryption Standard) is a symmetric key encryption algorithm that is widely used for data encryption. It uses a secret key to encrypt and decrypt data.
 Example Code:
 
+![Screenshot 2023-07-21 142746    11](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/c791db48-78b5-42e3-a164-e7ae06af69c2)
+
+4.Creating a login and a success page in Django involves several steps, such as setting up the Django project, creating the necessary models for user authentication, creating the log in and success pages, and deploying the project to a production server.  
+Step 1: Setting Up the Django Project
+The first step in creating a login and a success page in Django is to set up a new Django project. This can be achieved by following these steps:
+1.Install Django using pip:
+
 
 
