@@ -1,6 +1,7 @@
 # implementation-engineering-interview-questions-response
 
 1.	RESTful API Integration.
+	
 REST (Representational State Transfer) is a popular architectural style for building web services, and RESTful APIs are often used to integrate different systems together. The RESTful API provides a way of communication between different applications over the internet.
 Example Script:
 
@@ -41,6 +42,8 @@ To configure Nginx as a load balancer for multiple backend servers, follow these
 
 3.	Add the following configuration block to specify the backend servers.
 
+![Screenshot 2023-07-21 135620   5](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/e2ba7169-9bce-4aa6-ae20-1fc7d365228e)
+
 2.	Asynchronous Service Management
 To manage asynchronous services, we can use message queues and worker processes. Message queues provide a way of decoupling tasks from the main application, allowing for asynchronous processing. Worker processes can then be used to consume tasks from the queue and process them independently.
 Example Technologies:
@@ -52,6 +55,11 @@ Install RabbitMQ on a separate server that will act as the message queue.
 
 ![Screenshot 2023-07-21 140627    6](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/3f0f6d22-e9dc-4920-9083-2765cbd5b8cc)
 
+3.	One-Way Hashing Methods:
+	
+a.	SHA-256 Hashing:
+SHA-256 is a cryptographic one-way hash function that produces a fixed-length 256-bit hash value from an input message. It is widely used for password storage and digital signatures.
+Example Code:
 
 
 
