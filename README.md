@@ -106,6 +106,13 @@ Next, we need to create the necessary models for user authentication. Django com
 
 Then, we will define the necessary models in accounts/models.py:
 
+![Screenshot 2023-07-21 143109   16](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/a5e80e69-838b-4686-8141-79878593d53c)
+
+This defines a new user model that inherits from Django's built-in AbstractUser model. We can add additional fields to this model as needed, such as a profile picture or a date of birth field.
+Step 3: Creating the Log In and Success Pages
+Once we have our models set up, we can create the log in and success pages. We will use Django's built-in authentication views and templates for this:
+
+
 
 
 
