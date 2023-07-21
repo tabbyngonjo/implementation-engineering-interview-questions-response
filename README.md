@@ -61,5 +61,9 @@ a.	SHA-256 Hashing:
 SHA-256 is a cryptographic one-way hash function that produces a fixed-length 256-bit hash value from an input message. It is widely used for password storage and digital signatures.
 Example Code:
 
+![Screenshot 2023-07-21 140719   7](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/c91546b5-ece7-42be-8d57-cad8d3667405)
+
+Output:
+
 
 
