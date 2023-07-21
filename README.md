@@ -39,6 +39,19 @@ To configure Nginx as a load balancer for multiple backend servers, follow these
 
 ![Screenshot 2023-07-21 135539    4](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/4359e366-4fd4-42f2-9c41-f25d3a17ae39)
 
-3.	3.	Add the following configuration block to specify the backend servers.
+3.	Add the following configuration block to specify the backend servers.
+
+2.	Asynchronous Service Management
+To manage asynchronous services, we can use message queues and worker processes. Message queues provide a way of decoupling tasks from the main application, allowing for asynchronous processing. Worker processes can then be used to consume tasks from the queue and process them independently.
+Example Technologies:
+•	RabbitMQ: It is a popular message queue that provides reliable message delivery, routing, and flexibility for decoupling tasks from the main application.
+•	Celery: It is a distributed task queue that provides asynchronous task processing, scheduling, and monitoring.
+Example Configuration:
+To configure RabbitMQ and Celery as a message queue and worker process respectively, follow these steps:
+Install RabbitMQ on a separate server that will act as the message queue.
+
+![Screenshot 2023-07-21 135620   5](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/8f8e091d-1ec0-4afe-8c12-1e9eab92fc41)
+
+
 
 
