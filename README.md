@@ -22,3 +22,14 @@ First, we import the paho-mqtt library, which provides a way of connecting to an
 We then use the connect method to connect to the MQTT broker at the host "broker.hivemq.com" on port 1883. This is a public MQTT broker that anyone can use for testing purposes.
 Finally, we use the publish method to publish a message to the topic "test/topic". The message itself is the string "Hello, world!".
 
+2.	Load Management.
+To manage the load on the application, we can use load balancers and horizontal scaling. Load balancers distribute incoming requests to multiple servers, which can handle them in parallel. Horizontal scaling involves adding more server instances to handle the load, which works in conjunction with load balancers.
+Example Technologies:
+•	Nginx Load Balancer: It provides high performance, reliability, and flexibility for distributing traffic to backend servers.
+•	Amazon Elastic Compute Cloud (EC2): It is a popular cloud platform that provides scalable computing capacity in the cloud.
+Example Configuration:
+To configure Nginx as a load balancer for multiple backend servers, follow these steps:
+1.	Install Nginx on a separate server that will act as a load balancer.
+
+
+
