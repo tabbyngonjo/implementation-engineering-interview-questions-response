@@ -116,6 +116,7 @@ Once we have our models set up, we can create the log in and success pages. We w
 
 This sets up the URLs for the log in, log out, and success pages.
 
+![Screenshot 2023-07-21 143231    18](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/e65fa95a-fd88-4230-9620-6820fa2e4392)
 
 
 
