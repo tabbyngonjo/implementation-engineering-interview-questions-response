@@ -11,7 +11,9 @@ First, we import the requests library, which allows us to send HTTP requests. We
 We then print the JSON response using the json method, which converts the JSON data into a Python dictionary. This dictionary can then be used in our Python program.
 
 MQTT Integration.
+
 MQTT (Message Queue Telemetry Transport) is a lightweight messaging protocol that is often used in IoT (Internet of Things) applications. It provides a way of communication between different devices over the internet.
 Example Script:
 
+![Screenshot 2023-07-21 134655](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/6b518b03-5cbc-4bb6-870d-828aa88e3688)
 
