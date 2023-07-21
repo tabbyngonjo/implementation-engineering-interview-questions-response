@@ -97,4 +97,14 @@ The first step in creating a login and a success page in Django is to set up a n
 
 3.Navigate to the project directory:
 
+![Screenshot 2023-07-21 143002   14](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/09f2ff5c-96bf-4359-b9d5-7b316893b3e2)
+
+Step 2: Creating the Models for User Authentication
+Next, we need to create the necessary models for user authentication. Django comes with built-in models for user authentication, which can be customized to fit our specific needs. We will create a new app within our project specifically for user authentication:
+
+
+
+
+
+
 
