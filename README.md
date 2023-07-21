@@ -17,3 +17,8 @@ Example Script:
 
 ![Screenshot 2023-07-21 134655](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/6b518b03-5cbc-4bb6-870d-828aa88e3688)
 
+Explanation:
+First, we import the paho-mqtt library, which provides a way of connecting to an MQTT broker and publishing messages to it. We then create a new instance of the mqtt.Client class, which will be used to connect to the MQTT broker.
+We then use the connect method to connect to the MQTT broker at the host "broker.hivemq.com" on port 1883. This is a public MQTT broker that anyone can use for testing purposes.
+Finally, we use the publish method to publish a message to the topic "test/topic". The message itself is the string "Hello, world!".
+
