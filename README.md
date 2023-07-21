@@ -50,7 +50,7 @@ Example Configuration:
 To configure RabbitMQ and Celery as a message queue and worker process respectively, follow these steps:
 Install RabbitMQ on a separate server that will act as the message queue.
 
-![Screenshot 2023-07-21 135620   5](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/8f8e091d-1ec0-4afe-8c12-1e9eab92fc41)
+![Screenshot 2023-07-21 140627    6](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/3f0f6d22-e9dc-4920-9083-2765cbd5b8cc)
 
 
 
