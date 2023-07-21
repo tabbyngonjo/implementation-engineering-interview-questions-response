@@ -71,4 +71,6 @@ b.bcrypt Hashing:
 bcrypt is a cryptographic one-way hash function that is designed to be computationally expensive, making it resistant to brute-force attacks. It is commonly used for password storage.
 Example Code:
 
+![Screenshot 2023-07-21 140839   9](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/cecf678b-90c0-464c-9375-65114b839d59)
 
+Output:
