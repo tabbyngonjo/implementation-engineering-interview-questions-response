@@ -55,9 +55,9 @@ Install RabbitMQ on a separate server that will act as the message queue.
 
 ![Screenshot 2023-07-21 140627    6](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/3f0f6d22-e9dc-4920-9083-2765cbd5b8cc)
 
-3.	One-Way Hashing Methods:
+3.One-Way Hashing Methods:
 	
-a.	SHA-256 Hashing:
+a.SHA-256 Hashing:
 SHA-256 is a cryptographic one-way hash function that produces a fixed-length 256-bit hash value from an input message. It is widely used for password storage and digital signatures.
 Example Code:
 
@@ -65,5 +65,10 @@ Example Code:
 
 Output:
 
+![Screenshot 2023-07-21 140803   8](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/ccb27b93-538d-4f36-b55b-106adc81d130)
+
+b.bcrypt Hashing:
+bcrypt is a cryptographic one-way hash function that is designed to be computationally expensive, making it resistant to brute-force attacks. It is commonly used for password storage.
+Example Code:
 
 
