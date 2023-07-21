@@ -75,4 +75,12 @@ Example Code:
 
 Output:
 
+![Screenshot 2023-07-21 142713    10](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/4eb20ea4-995e-46ce-825e-e4d4990371d0)
+
+Two-Way Encryption Methods:
+1.AES Encryption:
+AES (Advanced Encryption Standard) is a symmetric key encryption algorithm that is widely used for data encryption. It uses a secret key to encrypt and decrypt data.
+Example Code:
+
+
 
