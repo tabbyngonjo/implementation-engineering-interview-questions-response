@@ -37,7 +37,7 @@ To configure Nginx as a load balancer for multiple backend servers, follow these
 
 2.	Edit the Nginx configuration file to specify the backend servers.
 
-
+![Screenshot 2023-07-21 135539    4](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/4359e366-4fd4-42f2-9c41-f25d3a17ae39)
 
 3.	3.	Add the following configuration block to specify the backend servers.
 
