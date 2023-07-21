@@ -89,5 +89,8 @@ Step 1: Setting Up the Django Project
 The first step in creating a login and a success page in Django is to set up a new Django project. This can be achieved by following these steps:
 1.Install Django using pip:
 
+![Screenshot 2023-07-21 142839    12](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/2bed38e1-bf9e-4985-a883-51a7b5666f7f)
+
+2.Create a new Django project:
 
 
