@@ -93,4 +93,8 @@ The first step in creating a login and a success page in Django is to set up a n
 
 2.Create a new Django project:
 
+![Screenshot 2023-07-21 142925   13](https://github.com/tabbyngonjo/implementation-engineering-interview-questions-response/assets/139018411/fa3ec23d-04a1-4b75-8140-fcfd0103eb1d)
+
+3.Navigate to the project directory:
+
 
